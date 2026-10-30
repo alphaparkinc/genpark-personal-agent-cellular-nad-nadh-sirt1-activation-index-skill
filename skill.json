@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-cellular-nad-nadh-sirt1-activation-index-skill",
+  "version": "1.0.0",
+  "title": "Cellular NAD+/NADH Redox Ratio & SIRT1 Longevity Index Skill",
+  "category": "Personal Agent (Bio / Sirtuin & Epigenetics)",
+  "description": "Models intracellular NAD+/NADH dinucleotide pool equilibrium, estimates Sirtuin-1 (SIRT1) deacetylation enzymatic velocity, and crafts personalized NAD+ precursor repletion schedules.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "quantify_nad_redox_sirtuin_activity"
+  ],
+  "dependencies": []
+}
